@@ -14,7 +14,7 @@ PurgeMate is a lightweight JavaScript tool for bulk deletion of your messages in
 
 1. Open your browser’s Developer Tools (usually by pressing `F12` or `Ctrl+Shift+I`).
 2. Navigate to the **Console** tab.
-3. Copy and paste the PurgeMate script (see below) into the console.
+3. Copy and paste the PurgeMate script (see purgemate.js) into the console.
 4. Press `Enter` to load the PurgeMate UI.
 5. Use the toggle button to show or hide the UI, configure the settings, and start deleting messages.
 
